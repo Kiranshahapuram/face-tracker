@@ -1,0 +1,50 @@
+{
+  "video": {
+    "source": "uploads\\video_sample1.mp4",
+    "frame_skip_interval": 5,
+    "rtsp_reconnect_delay_s": 5,
+    "rtsp_max_retries": 10,
+    "roi_margin_px": 0
+  },
+  "detection": {
+    "yolo_model_path": "yolov8n-face.pt",
+    "yolo_confidence": 0.3,
+    "yolo_input_size": 640,
+    "yolo_num_threads": 4,
+    "min_face_size_px": 30
+  },
+  "quality_gate": {
+    "min_blur_score": 30.0,
+    "max_head_angle_deg": 65
+  },
+  "reid": {
+    "insightface_model": "buffalo_l",
+    "similarity_threshold": 0.35,
+    "reid_every_n_frames": 10,
+    "embedding_avg_samples": 3,
+    "reentry_window_s": 120,
+    "reentry_max_buffer": 200
+  },
+  "tracking": {
+    "tracker": "bytetrack",
+    "max_track_age_frames": 60,
+    "min_entry_frames": 1,
+    "n_init": 2,
+    "entry_line_y": 0,
+    "exit_line_y": 1520
+  },
+  "database": {
+    "host": "localhost",
+    "port": 6432,
+    "dbname": "face_tracker",
+    "user": "postgres",
+    "password": "",
+    "pool_min": 2,
+    "pool_max": 5
+  },
+  "system": {
+    "use_gpu": false,
+    "log_dir": "logs/",
+    "frame_queue_size": 4
+  }
+}

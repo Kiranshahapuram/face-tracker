@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+vairable/
+env/
+venv/
+.env
+
+# Project specific data
+logs/
+uploads/
+debug_frame_*.jpg
+diagnose_results.json
+diagnose_results.txt
+diagnose_output.txt
+error_log.txt
+recent_events.txt
+event_summary.json
+sample_db_output.txt
+events2.log
+
+# Large media & model weights
+*.mp4
+*.pt
+
+# OS specific files
+.DS_Store
+Thumbs.db

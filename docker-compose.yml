@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    container_name: face_tracker_db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: face_tracker
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "6432:5432"
+    volumes:
+      - pgdata_v2:/var/lib/postgresql/data
+      - ./schema.sql:/docker-entrypoint-initdb.d/schema.sql
+
+volumes:
+  pgdata_v2:
