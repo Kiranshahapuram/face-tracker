@@ -165,7 +165,7 @@ The development followed a rigorous five-step plan:
 
 ## Explanatory Video
 
-[Please insert your Loom or YouTube project demonstration link here](INSERT_LINK_HERE)
+[https://www.loom.com/share/1a2d5962c190497eb4b508cc946028e0](url)
 
 ---
 
