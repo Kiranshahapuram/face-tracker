@@ -1,17 +1,20 @@
 {
   "video": {
-    "source": "uploads\\video_sample1.mp4",
-    "frame_skip_interval": 5,
+    "source": "uploads/record_20250620_183903.mp4",
+    "frame_skip_interval": 3,
     "rtsp_reconnect_delay_s": 5,
     "rtsp_max_retries": 10,
     "roi_margin_px": 0
   },
   "detection": {
     "yolo_model_path": "yolov8n-face.pt",
-    "yolo_confidence": 0.3,
-    "yolo_input_size": 640,
-    "yolo_num_threads": 4,
-    "min_face_size_px": 30
+    "yolo_confidence": 0.35,
+    "yolo_input_size": 0,
+    "yolo_num_threads": 10,
+    "min_face_size_px": 20,
+    "person_confidence": 0.4,
+    "min_person_size_px": 50,
+    "min_registration_face_size_px": 45
   },
   "quality_gate": {
     "min_blur_score": 30.0,
@@ -19,19 +22,21 @@
   },
   "reid": {
     "insightface_model": "buffalo_l",
-    "similarity_threshold": 0.35,
-    "reid_every_n_frames": 10,
-    "embedding_avg_samples": 3,
-    "reentry_window_s": 120,
-    "reentry_max_buffer": 200
+    "similarity_threshold": 0.38,
+    "reid_every_n_frames": 5,
+    "embedding_avg_samples": 2,
+    "reentry_window_s": 300,
+    "reentry_max_buffer": 200,
+    "min_registration_blur_score": 50.0,
+    "min_registration_face_size_px": 45
   },
   "tracking": {
     "tracker": "bytetrack",
-    "max_track_age_frames": 60,
-    "min_entry_frames": 1,
-    "n_init": 2,
+    "max_track_age_frames": 90,
+    "min_entry_frames": 2,
+    "n_init": 1,
     "entry_line_y": 0,
-    "exit_line_y": 1520
+    "exit_line_y": 99999
   },
   "database": {
     "host": "localhost",
@@ -45,6 +50,7 @@
   "system": {
     "use_gpu": false,
     "log_dir": "logs/",
-    "frame_queue_size": 4
+    "frame_queue_size": 4,
+    "show_visualization": true
   }
 }

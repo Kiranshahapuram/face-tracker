@@ -28,20 +28,26 @@ class FaceDetector:
             return True
         return False
 
-    def crop_face(self, frame: np.ndarray, bbox: list, padding: int = 10) -> np.ndarray:
+    def crop_face(self, frame: np.ndarray, bbox: list, padding: int = 40) -> np.ndarray:
         h, w = frame.shape[:2]
         x1, y1, x2, y2 = bbox
-        nx1 = max(0, int(x1) - padding)
-        ny1 = max(0, int(y1) - padding)
-        nx2 = min(w, int(x2) + padding)
-        ny2 = min(h, int(y2) + padding)
+        bw = x2 - x1
+        bh = y2 - y1
+        # Extra context: expand by 30% of bbox size on each side
+        pad_x = int(bw * 0.3) + padding
+        pad_y = int(bh * 0.3) + padding
+        nx1 = max(0, int(x1) - pad_x)
+        ny1 = max(0, int(y1) - pad_y)
+        nx2 = min(w, int(x2) + pad_x)
+        ny2 = min(h, int(y2) + pad_y)
         return frame[ny1:ny2, nx1:nx2]
 
-    def detect(self, frame: np.ndarray) -> list[dict]:
+    def detect(self, frame: np.ndarray, imgsz: int = 0) -> list[dict]:
+        input_size = imgsz if imgsz > 0 else self.config.detection.yolo_input_size
         try:
             results = self.model(
                 frame, 
-                imgsz=self.config.detection.yolo_input_size, 
+                imgsz=input_size, 
                 verbose=False,
                 max_det=100  # Support many people in crowd
             )

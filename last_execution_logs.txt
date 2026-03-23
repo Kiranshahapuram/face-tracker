@@ -1,0 +1,1000 @@
+﻿2026-03-22 13:13:43,506 | INFO     | [EMBEDDING_GENERATED] track_id=85 dim=512 quality=True frame=1410
+2026-03-22 13:13:43,515 | INFO     | [RECOGNITION]         face_id=ba2465a5-7afe-4522-9caa-48240fd90793 track_id=85 similarity=1.00 frame=1410
+2026-03-22 13:13:44,313 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1420
+2026-03-22 13:13:44,574 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1420
+2026-03-22 13:13:44,577 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1420
+2026-03-22 13:13:45,497 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1430
+2026-03-22 13:13:45,708 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1430
+2026-03-22 13:13:45,710 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1430
+2026-03-22 13:13:46,628 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1440
+2026-03-22 13:13:46,852 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1440
+2026-03-22 13:13:46,857 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1440
+2026-03-22 13:13:47,907 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1450
+2026-03-22 13:13:48,140 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1450
+2026-03-22 13:13:48,142 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1450
+2026-03-22 13:13:49,096 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1460
+2026-03-22 13:13:49,319 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1460
+2026-03-22 13:13:49,322 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1460
+2026-03-22 13:13:50,481 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1470
+2026-03-22 13:13:50,733 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1470
+2026-03-22 13:13:50,738 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1470
+2026-03-22 13:13:51,790 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1480
+2026-03-22 13:13:52,007 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1480
+2026-03-22 13:13:52,010 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1480
+2026-03-22 13:13:53,249 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1490
+2026-03-22 13:13:53,251 | INFO     | [EXIT]                face_id=39cd907e-40b7-472b-a90a-e2d4f95580e2 track_id=115 frame=1490 image=logs/exits\2026-03-22\13-13-53_250_track115_39cd907e-40b7-472b-a90a-e2d4f95580e2.jpg
+2026-03-22 13:13:53,450 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1490
+2026-03-22 13:13:53,451 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1490
+2026-03-22 13:13:54,469 | INFO     | [TRACKING]            face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 frame=1500
+2026-03-22 13:13:54,666 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1500
+2026-03-22 13:13:54,670 | INFO     | [RECOGNITION]         face_id=c0d10873-fba4-4794-996e-5b981c1d27ab track_id=3 similarity=1.00 frame=1500
+2026-03-22 13:16:09,972 | INFO     | [EMBEDDING_GENERATED] track_id=1 dim=512 quality=True frame=10
+2026-03-22 13:16:10,083 | INFO     | [RECOGNITION]         face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 similarity=1.00 frame=10
+2026-03-22 13:16:10,307 | INFO     | [EMBEDDING_GENERATED] track_id=2 dim=512 quality=True frame=10
+2026-03-22 13:16:10,427 | INFO     | [RECOGNITION]         face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 similarity=1.00 frame=10
+2026-03-22 13:16:10,627 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=10
+2026-03-22 13:16:10,754 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=10
+2026-03-22 13:16:11,344 | INFO     | [ENTRY]               face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 frame=10 image=logs/entrs\2026-03-22\13-16-11_343_track1_583b3fe1-7d24-457c-b14f-7c3de4928652.jpg
+2026-03-22 13:16:11,345 | INFO     | [ENTRY]               face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 frame=10 image=logs/entrs\2026-03-22\13-16-11_345_track2_c801cd14-67e2-46e9-a245-d260bb4b186b.jpg
+2026-03-22 13:16:11,346 | INFO     | [ENTRY]               face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=10 image=logs/entrs\2026-03-22\13-16-11_346_track3_ab5f61bb-1453-4f01-8dca-970966ca795f.jpg
+2026-03-22 13:16:11,367 | INFO     | [FACE_REGISTERED]     face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 unique_count=1 frame=10
+2026-03-22 13:16:11,390 | INFO     | [FACE_REGISTERED]     face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 unique_count=2 frame=10
+2026-03-22 13:16:11,417 | INFO     | [FACE_REGISTERED]     face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 unique_count=3 frame=10
+2026-03-22 13:16:11,659 | INFO     | [TRACKING]            face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 frame=20
+2026-03-22 13:16:11,660 | INFO     | [TRACKING]            face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 frame=20
+2026-03-22 13:16:11,660 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=20
+2026-03-22 13:16:11,872 | INFO     | [EMBEDDING_GENERATED] track_id=1 dim=512 quality=True frame=20
+2026-03-22 13:16:11,873 | INFO     | [RECOGNITION]         face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 similarity=1.00 frame=20
+2026-03-22 13:16:12,139 | INFO     | [EMBEDDING_GENERATED] track_id=2 dim=512 quality=True frame=20
+2026-03-22 13:16:12,142 | INFO     | [RECOGNITION]         face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 similarity=1.00 frame=20
+2026-03-22 13:16:12,366 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=20
+2026-03-22 13:16:12,367 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=20
+2026-03-22 13:16:13,370 | INFO     | [TRACKING]            face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 frame=30
+2026-03-22 13:16:13,372 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=30
+2026-03-22 13:16:13,639 | INFO     | [EMBEDDING_GENERATED] track_id=1 dim=512 quality=True frame=30
+2026-03-22 13:16:13,640 | INFO     | [RECOGNITION]         face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 similarity=1.00 frame=30
+2026-03-22 13:16:13,848 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=30
+2026-03-22 13:16:13,848 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=30
+2026-03-22 13:16:14,815 | INFO     | [TRACKING]            face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 frame=40
+2026-03-22 13:16:14,816 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=40
+2026-03-22 13:16:15,019 | INFO     | [EMBEDDING_GENERATED] track_id=1 dim=512 quality=True frame=40
+2026-03-22 13:16:15,020 | INFO     | [RECOGNITION]         face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 similarity=1.00 frame=40
+2026-03-22 13:16:15,218 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=40
+2026-03-22 13:16:15,221 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=40
+2026-03-22 13:16:16,182 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=50
+2026-03-22 13:16:16,393 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=50
+2026-03-22 13:16:16,399 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=50
+2026-03-22 13:16:16,662 | INFO     | [EMBEDDING_GENERATED] track_id=4 dim=512 quality=True frame=50
+2026-03-22 13:16:16,789 | INFO     | [RECOGNITION]         face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 similarity=1.00 frame=50
+2026-03-22 13:16:17,490 | INFO     | [ENTRY]               face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 frame=50 image=logs/entrs\2026-03-22\13-16-17_489_track4_2cdc3324-c891-4777-8f9a-87a60e398661.jpg
+2026-03-22 13:16:17,524 | INFO     | [FACE_REGISTERED]     face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 unique_count=4 frame=50
+2026-03-22 13:16:17,873 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=60
+2026-03-22 13:16:17,876 | INFO     | [TRACKING]            face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 frame=60
+2026-03-22 13:16:18,251 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=60
+2026-03-22 13:16:18,253 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=60
+2026-03-22 13:16:18,616 | INFO     | [EMBEDDING_GENERATED] track_id=4 dim=512 quality=True frame=60
+2026-03-22 13:16:18,617 | INFO     | [RECOGNITION]         face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 similarity=1.00 frame=60
+2026-03-22 13:16:19,637 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=70
+2026-03-22 13:16:19,638 | INFO     | [TRACKING]            face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 frame=70
+2026-03-22 13:16:19,841 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=70
+2026-03-22 13:16:19,841 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=70
+2026-03-22 13:16:20,040 | INFO     | [EMBEDDING_GENERATED] track_id=4 dim=512 quality=True frame=70
+2026-03-22 13:16:20,042 | INFO     | [RECOGNITION]         face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 similarity=1.00 frame=70
+2026-03-22 13:16:21,095 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=80
+2026-03-22 13:16:21,096 | INFO     | [TRACKING]            face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 frame=80
+2026-03-22 13:16:21,298 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=80
+2026-03-22 13:16:21,302 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=80
+2026-03-22 13:16:21,500 | INFO     | [EMBEDDING_GENERATED] track_id=4 dim=512 quality=True frame=80
+2026-03-22 13:16:21,503 | INFO     | [RECOGNITION]         face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 similarity=1.00 frame=80
+2026-03-22 13:16:22,500 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=90
+2026-03-22 13:16:22,704 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=90
+2026-03-22 13:16:22,706 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=90
+2026-03-22 13:16:23,739 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=100
+2026-03-22 13:16:23,965 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=100
+2026-03-22 13:16:23,967 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=100
+2026-03-22 13:16:25,050 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=110
+2026-03-22 13:16:25,270 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=110
+2026-03-22 13:16:25,273 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=110
+2026-03-22 13:16:26,288 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=120
+2026-03-22 13:16:26,603 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=120
+2026-03-22 13:16:26,606 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=120
+2026-03-22 13:16:27,780 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=130
+2026-03-22 13:16:27,987 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=130
+2026-03-22 13:16:27,989 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=130
+2026-03-22 13:16:28,833 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=140
+2026-03-22 13:16:29,057 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=140
+2026-03-22 13:16:29,059 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=140
+2026-03-22 13:16:30,137 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=150
+2026-03-22 13:16:30,401 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=150
+2026-03-22 13:16:30,408 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=150
+2026-03-22 13:16:31,425 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=160
+2026-03-22 13:16:31,640 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=160
+2026-03-22 13:16:31,642 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=160
+2026-03-22 13:16:32,663 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=170
+2026-03-22 13:16:32,862 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=170
+2026-03-22 13:16:32,868 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=170
+2026-03-22 13:16:33,853 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=180
+2026-03-22 13:16:34,068 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=180
+2026-03-22 13:16:34,071 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=180
+2026-03-22 13:16:35,050 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=190
+2026-03-22 13:16:35,249 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=190
+2026-03-22 13:16:35,250 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=190
+2026-03-22 13:16:36,210 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=200
+2026-03-22 13:16:36,416 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=200
+2026-03-22 13:16:36,419 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=200
+2026-03-22 13:16:37,414 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=210
+2026-03-22 13:16:37,704 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=210
+2026-03-22 13:16:37,723 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=210
+2026-03-22 13:16:38,577 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=220
+2026-03-22 13:16:38,780 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=220
+2026-03-22 13:16:38,783 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=220
+2026-03-22 13:16:39,804 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=230
+2026-03-22 13:16:40,056 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=230
+2026-03-22 13:16:40,063 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=230
+2026-03-22 13:16:41,171 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=240
+2026-03-22 13:16:41,396 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=240
+2026-03-22 13:16:41,405 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=240
+2026-03-22 13:16:42,362 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=250
+2026-03-22 13:16:42,580 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=250
+2026-03-22 13:16:42,585 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=250
+2026-03-22 13:16:43,614 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=260
+2026-03-22 13:16:43,837 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=260
+2026-03-22 13:16:43,843 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=260
+2026-03-22 13:16:44,794 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=270
+2026-03-22 13:16:44,985 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=270
+2026-03-22 13:16:44,987 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=270
+2026-03-22 13:16:45,992 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=280
+2026-03-22 13:16:46,225 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=280
+2026-03-22 13:16:46,227 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=280
+2026-03-22 13:16:47,194 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=290
+2026-03-22 13:16:47,535 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=290
+2026-03-22 13:16:47,542 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=290
+2026-03-22 13:16:48,599 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=300
+2026-03-22 13:16:48,813 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=300
+2026-03-22 13:16:48,818 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=300
+2026-03-22 13:16:49,819 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=310
+2026-03-22 13:16:50,150 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=310
+2026-03-22 13:16:50,153 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=310
+2026-03-22 13:16:51,093 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=315
+2026-03-22 13:16:51,192 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=315
+2026-03-22 13:16:51,814 | INFO     | [ENTRY]               face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=315 image=logs/entrs\2026-03-22\13-16-51_814_track10_03d02793-078b-407d-b6b5-832e6870124f.jpg
+2026-03-22 13:16:51,815 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=320
+2026-03-22 13:16:51,817 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=320
+2026-03-22 13:16:51,902 | INFO     | [FACE_REGISTERED]     face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 unique_count=5 frame=315
+2026-03-22 13:16:52,050 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=320
+2026-03-22 13:16:52,053 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=320
+2026-03-22 13:16:52,241 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=320
+2026-03-22 13:16:52,242 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=320
+2026-03-22 13:16:53,392 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=325
+2026-03-22 13:16:53,575 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=325
+2026-03-22 13:16:54,114 | INFO     | [ENTRY]               face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=325 image=logs/entrs\2026-03-22\13-16-54_113_track12_78e982b8-8c70-4912-841c-9094dfa89925.jpg
+2026-03-22 13:16:54,115 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=330
+2026-03-22 13:16:54,115 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=330
+2026-03-22 13:16:54,117 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=330
+2026-03-22 13:16:54,228 | INFO     | [FACE_REGISTERED]     face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 unique_count=6 frame=325
+2026-03-22 13:16:54,341 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=330
+2026-03-22 13:16:54,344 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=330
+2026-03-22 13:16:54,535 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=330
+2026-03-22 13:16:54,540 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=330
+2026-03-22 13:16:54,756 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=330
+2026-03-22 13:16:54,765 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=330
+2026-03-22 13:16:55,104 | INFO     | [EMBEDDING_GENERATED] track_id=14 dim=512 quality=True frame=330
+2026-03-22 13:16:55,224 | INFO     | [RECOGNITION]         face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 similarity=1.00 frame=330
+2026-03-22 13:16:55,764 | INFO     | [ENTRY]               face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 frame=330 image=logs/entrs\2026-03-22\13-16-55_763_track14_40c45b65-d5e0-4c3f-9a84-f9a18c5434f9.jpg
+2026-03-22 13:16:55,792 | INFO     | [FACE_REGISTERED]     face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 unique_count=7 frame=330
+2026-03-22 13:16:56,074 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=340
+2026-03-22 13:16:56,075 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=340
+2026-03-22 13:16:56,076 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=340
+2026-03-22 13:16:56,077 | INFO     | [TRACKING]            face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 frame=340
+2026-03-22 13:16:56,296 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=340
+2026-03-22 13:16:56,297 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=340
+2026-03-22 13:16:56,543 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=340
+2026-03-22 13:16:56,546 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=340
+2026-03-22 13:16:56,752 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=340
+2026-03-22 13:16:56,760 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=340
+2026-03-22 13:16:56,956 | INFO     | [EMBEDDING_GENERATED] track_id=14 dim=512 quality=True frame=340
+2026-03-22 13:16:56,961 | INFO     | [RECOGNITION]         face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 similarity=1.00 frame=340
+2026-03-22 13:16:58,083 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=350
+2026-03-22 13:16:58,083 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=350
+2026-03-22 13:16:58,085 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=350
+2026-03-22 13:16:58,086 | INFO     | [TRACKING]            face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 frame=350
+2026-03-22 13:16:58,289 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=350
+2026-03-22 13:16:58,290 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=350
+2026-03-22 13:16:58,474 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=350
+2026-03-22 13:16:58,476 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=350
+2026-03-22 13:16:58,695 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=350
+2026-03-22 13:16:58,698 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=350
+2026-03-22 13:16:58,893 | INFO     | [EMBEDDING_GENERATED] track_id=14 dim=512 quality=True frame=350
+2026-03-22 13:16:58,895 | INFO     | [RECOGNITION]         face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 similarity=1.00 frame=350
+2026-03-22 13:16:59,903 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=360
+2026-03-22 13:16:59,903 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=360
+2026-03-22 13:16:59,905 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=360
+2026-03-22 13:17:00,143 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=360
+2026-03-22 13:17:00,144 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=360
+2026-03-22 13:17:00,341 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=360
+2026-03-22 13:17:00,342 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=360
+2026-03-22 13:17:00,532 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=360
+2026-03-22 13:17:00,537 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=360
+2026-03-22 13:17:01,529 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=370
+2026-03-22 13:17:01,530 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=370
+2026-03-22 13:17:01,531 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=370
+2026-03-22 13:17:01,753 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=370
+2026-03-22 13:17:01,755 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=370
+2026-03-22 13:17:01,943 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=370
+2026-03-22 13:17:01,944 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=370
+2026-03-22 13:17:02,192 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=370
+2026-03-22 13:17:02,195 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=370
+2026-03-22 13:17:02,991 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=380
+2026-03-22 13:17:02,992 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=380
+2026-03-22 13:17:03,205 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=380
+2026-03-22 13:17:03,208 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=380
+2026-03-22 13:17:03,396 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=380
+2026-03-22 13:17:03,399 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=380
+2026-03-22 13:17:04,285 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=390
+2026-03-22 13:17:04,286 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=390
+2026-03-22 13:17:04,534 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=390
+2026-03-22 13:17:04,537 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=390
+2026-03-22 13:17:04,731 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=390
+2026-03-22 13:17:04,736 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=390
+2026-03-22 13:17:04,932 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=390
+2026-03-22 13:17:04,933 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=390
+2026-03-22 13:17:05,935 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=400
+2026-03-22 13:17:05,936 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=400
+2026-03-22 13:17:06,131 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=400
+2026-03-22 13:17:06,133 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=400
+2026-03-22 13:17:06,313 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=400
+2026-03-22 13:17:06,314 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=400
+2026-03-22 13:17:06,518 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=400
+2026-03-22 13:17:06,525 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=400
+2026-03-22 13:17:07,607 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=410
+2026-03-22 13:17:07,607 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=410
+2026-03-22 13:17:07,828 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=410
+2026-03-22 13:17:07,833 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=410
+2026-03-22 13:17:08,025 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=410
+2026-03-22 13:17:08,029 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=410
+2026-03-22 13:17:08,925 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=415
+2026-03-22 13:17:09,034 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=415
+2026-03-22 13:17:09,643 | INFO     | [ENTRY]               face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=415 image=logs/entrs\2026-03-22\13-17-09_642_track19_29a06160-0b72-4165-8dc3-0db45f865534.jpg
+2026-03-22 13:17:09,644 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=420
+2026-03-22 13:17:09,645 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=420
+2026-03-22 13:17:09,646 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=420
+2026-03-22 13:17:09,732 | INFO     | [FACE_REGISTERED]     face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 unique_count=8 frame=415
+2026-03-22 13:17:09,953 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=420
+2026-03-22 13:17:09,955 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=420
+2026-03-22 13:17:10,188 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=420
+2026-03-22 13:17:10,188 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=420
+2026-03-22 13:17:10,442 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=420
+2026-03-22 13:17:10,444 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=420
+2026-03-22 13:17:11,405 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=430
+2026-03-22 13:17:11,405 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=430
+2026-03-22 13:17:11,408 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=430
+2026-03-22 13:17:11,620 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=430
+2026-03-22 13:17:11,622 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=430
+2026-03-22 13:17:11,829 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=430
+2026-03-22 13:17:11,833 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=430
+2026-03-22 13:17:12,031 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=430
+2026-03-22 13:17:12,035 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=430
+2026-03-22 13:17:12,223 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=430
+2026-03-22 13:17:12,226 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=430
+2026-03-22 13:17:13,210 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=440
+2026-03-22 13:17:13,211 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=440
+2026-03-22 13:17:13,212 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=440
+2026-03-22 13:17:13,213 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=440
+2026-03-22 13:17:13,516 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=440
+2026-03-22 13:17:13,519 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=440
+2026-03-22 13:17:13,722 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=440
+2026-03-22 13:17:13,724 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=440
+2026-03-22 13:17:13,914 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=440
+2026-03-22 13:17:13,919 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=440
+2026-03-22 13:17:14,112 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=440
+2026-03-22 13:17:14,115 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=440
+2026-03-22 13:17:15,098 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=450
+2026-03-22 13:17:15,098 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=450
+2026-03-22 13:17:15,099 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=450
+2026-03-22 13:17:15,100 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=450
+2026-03-22 13:17:15,301 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=450
+2026-03-22 13:17:15,302 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=450
+2026-03-22 13:17:15,496 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=450
+2026-03-22 13:17:15,497 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=450
+2026-03-22 13:17:15,723 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=450
+2026-03-22 13:17:15,726 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=450
+2026-03-22 13:17:15,914 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=450
+2026-03-22 13:17:15,917 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=450
+2026-03-22 13:17:16,858 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=460
+2026-03-22 13:17:16,859 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=460
+2026-03-22 13:17:16,859 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=460
+2026-03-22 13:17:16,861 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=460
+2026-03-22 13:17:17,065 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=460
+2026-03-22 13:17:17,067 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=460
+2026-03-22 13:17:17,272 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=460
+2026-03-22 13:17:17,275 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=460
+2026-03-22 13:17:17,472 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=460
+2026-03-22 13:17:17,474 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=460
+2026-03-22 13:17:17,673 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=460
+2026-03-22 13:17:17,704 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=460
+2026-03-22 13:17:18,809 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=470
+2026-03-22 13:17:18,810 | INFO     | [TRACKING]            face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=470
+2026-03-22 13:17:18,811 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=470
+2026-03-22 13:17:19,025 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=470
+2026-03-22 13:17:19,028 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=470
+2026-03-22 13:17:19,218 | INFO     | [EMBEDDING_GENERATED] track_id=12 dim=512 quality=True frame=470
+2026-03-22 13:17:19,219 | INFO     | [RECOGNITION]         face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 similarity=1.00 frame=470
+2026-03-22 13:17:19,404 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=470
+2026-03-22 13:17:19,407 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=470
+2026-03-22 13:17:20,098 | INFO     | [EXIT]                face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=2 frame=475 image=logs/exits\2026-03-22\13-17-20_097_track2_c801cd14-67e2-46e9-a245-d260bb4b186b.jpg
+2026-03-22 13:17:20,426 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=480
+2026-03-22 13:17:20,427 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=480
+2026-03-22 13:17:20,642 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=480
+2026-03-22 13:17:20,644 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=480
+2026-03-22 13:17:20,853 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=480
+2026-03-22 13:17:20,856 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=480
+2026-03-22 13:17:21,737 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=485
+2026-03-22 13:17:21,846 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=485
+2026-03-22 13:17:22,458 | INFO     | [ENTRY]               face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=485 image=logs/entrs\2026-03-22\13-17-22_458_track31_2bb162b2-6946-4641-b093-b63bd2b4cdd7.jpg
+2026-03-22 13:17:22,459 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=490
+2026-03-22 13:17:22,462 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=490
+2026-03-22 13:17:22,463 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=490
+2026-03-22 13:17:22,550 | INFO     | [FACE_REGISTERED]     face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 unique_count=9 frame=485
+2026-03-22 13:17:22,681 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=490
+2026-03-22 13:17:22,692 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=490
+2026-03-22 13:17:22,912 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=490
+2026-03-22 13:17:22,920 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=490
+2026-03-22 13:17:23,191 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=490
+2026-03-22 13:17:23,192 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=490
+2026-03-22 13:17:24,065 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=500
+2026-03-22 13:17:24,066 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=500
+2026-03-22 13:17:24,068 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=500
+2026-03-22 13:17:24,069 | INFO     | [EXIT]                face_id=583b3fe1-7d24-457c-b14f-7c3de4928652 track_id=1 frame=500 image=logs/exits\2026-03-22\13-17-24_068_track1_583b3fe1-7d24-457c-b14f-7c3de4928652.jpg
+2026-03-22 13:17:24,292 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=500
+2026-03-22 13:17:24,294 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=500
+2026-03-22 13:17:24,520 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=500
+2026-03-22 13:17:24,523 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=500
+2026-03-22 13:17:24,723 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=500
+2026-03-22 13:17:24,726 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=500
+2026-03-22 13:17:25,564 | INFO     | [EMBEDDING_GENERATED] track_id=35 dim=512 quality=True frame=505
+2026-03-22 13:17:25,678 | INFO     | [RECOGNITION]         face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 similarity=1.00 frame=505
+2026-03-22 13:17:26,083 | INFO     | [ENTRY]               face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 frame=505 image=logs/entrs\2026-03-22\13-17-26_082_track35_80aa11b4-321e-46e4-8ce2-f142da674060.jpg
+2026-03-22 13:17:26,084 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=510
+2026-03-22 13:17:26,086 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=510
+2026-03-22 13:17:26,087 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=510
+2026-03-22 13:17:26,088 | INFO     | [TRACKING]            face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 frame=510
+2026-03-22 13:17:26,090 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=510
+2026-03-22 13:17:26,130 | INFO     | [FACE_REGISTERED]     face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 unique_count=10 frame=505
+2026-03-22 13:17:26,356 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=510
+2026-03-22 13:17:26,359 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=510
+2026-03-22 13:17:26,564 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=510
+2026-03-22 13:17:26,566 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=510
+2026-03-22 13:17:26,776 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=510
+2026-03-22 13:17:26,778 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=510
+2026-03-22 13:17:26,989 | INFO     | [EMBEDDING_GENERATED] track_id=35 dim=512 quality=True frame=510
+2026-03-22 13:17:26,995 | INFO     | [RECOGNITION]         face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 similarity=1.00 frame=510
+2026-03-22 13:17:27,203 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=510
+2026-03-22 13:17:27,204 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=510
+2026-03-22 13:17:28,289 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=520
+2026-03-22 13:17:28,290 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=520
+2026-03-22 13:17:28,292 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=520
+2026-03-22 13:17:28,292 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=520
+2026-03-22 13:17:28,544 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=520
+2026-03-22 13:17:28,546 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=520
+2026-03-22 13:17:28,807 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=520
+2026-03-22 13:17:28,809 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=520
+2026-03-22 13:17:29,011 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=520
+2026-03-22 13:17:29,017 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=520
+2026-03-22 13:17:29,211 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=520
+2026-03-22 13:17:29,212 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=520
+2026-03-22 13:17:30,172 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=530
+2026-03-22 13:17:30,173 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=530
+2026-03-22 13:17:30,174 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=530
+2026-03-22 13:17:30,176 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=530
+2026-03-22 13:17:30,450 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=530
+2026-03-22 13:17:30,452 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=530
+2026-03-22 13:17:30,635 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=530
+2026-03-22 13:17:30,636 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=530
+2026-03-22 13:17:30,827 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=530
+2026-03-22 13:17:30,831 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=530
+2026-03-22 13:17:31,031 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=530
+2026-03-22 13:17:31,033 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=530
+2026-03-22 13:17:31,690 | INFO     | [EXIT]                face_id=2cdc3324-c891-4777-8f9a-87a60e398661 track_id=4 frame=535 image=logs/exits\2026-03-22\13-17-31_689_track4_2cdc3324-c891-4777-8f9a-87a60e398661.jpg
+2026-03-22 13:17:31,979 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=540
+2026-03-22 13:17:31,981 | INFO     | [TRACKING]            face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=540
+2026-03-22 13:17:31,982 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=540
+2026-03-22 13:17:31,982 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=540
+2026-03-22 13:17:32,202 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=540
+2026-03-22 13:17:32,205 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=540
+2026-03-22 13:17:32,388 | INFO     | [EMBEDDING_GENERATED] track_id=19 dim=512 quality=True frame=540
+2026-03-22 13:17:32,393 | INFO     | [RECOGNITION]         face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 similarity=1.00 frame=540
+2026-03-22 13:17:32,573 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=540
+2026-03-22 13:17:32,574 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=540
+2026-03-22 13:17:32,756 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=540
+2026-03-22 13:17:32,764 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=540
+2026-03-22 13:17:33,686 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=550
+2026-03-22 13:17:33,687 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=550
+2026-03-22 13:17:33,914 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=550
+2026-03-22 13:17:33,915 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=550
+2026-03-22 13:17:34,117 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=550
+2026-03-22 13:17:34,119 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=550
+2026-03-22 13:17:35,074 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=560
+2026-03-22 13:17:35,075 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=560
+2026-03-22 13:17:35,283 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=560
+2026-03-22 13:17:35,284 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=560
+2026-03-22 13:17:35,491 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=560
+2026-03-22 13:17:35,492 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=560
+2026-03-22 13:17:35,680 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=560
+2026-03-22 13:17:35,798 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=560
+2026-03-22 13:17:36,385 | INFO     | [ENTRY]               face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=560 image=logs/entrs\2026-03-22\13-17-36_384_track36_7e1ee427-b72d-4e95-8388-417f9701cb97.jpg
+2026-03-22 13:17:36,410 | INFO     | [FACE_REGISTERED]     face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 unique_count=11 frame=560
+2026-03-22 13:17:36,694 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=570
+2026-03-22 13:17:36,695 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=570
+2026-03-22 13:17:36,695 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=570
+2026-03-22 13:17:36,697 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=570
+2026-03-22 13:17:36,903 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=570
+2026-03-22 13:17:36,905 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=570
+2026-03-22 13:17:37,172 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=570
+2026-03-22 13:17:37,174 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=570
+2026-03-22 13:17:37,397 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=570
+2026-03-22 13:17:37,398 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=570
+2026-03-22 13:17:37,582 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=570
+2026-03-22 13:17:37,584 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=570
+2026-03-22 13:17:38,697 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=580
+2026-03-22 13:17:38,698 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=580
+2026-03-22 13:17:38,699 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=580
+2026-03-22 13:17:38,699 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=580
+2026-03-22 13:17:38,940 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=580
+2026-03-22 13:17:38,955 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=580
+2026-03-22 13:17:39,255 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=580
+2026-03-22 13:17:39,259 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=580
+2026-03-22 13:17:39,465 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=580
+2026-03-22 13:17:39,478 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=580
+2026-03-22 13:17:39,695 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=580
+2026-03-22 13:17:39,700 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=580
+2026-03-22 13:17:40,372 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=590
+2026-03-22 13:17:40,372 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=590
+2026-03-22 13:17:40,374 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=590
+2026-03-22 13:17:40,597 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=590
+2026-03-22 13:17:40,601 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=590
+2026-03-22 13:17:40,844 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=590
+2026-03-22 13:17:40,853 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=590
+2026-03-22 13:17:41,117 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=590
+2026-03-22 13:17:41,123 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=590
+2026-03-22 13:17:41,849 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=600
+2026-03-22 13:17:41,850 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=600
+2026-03-22 13:17:41,851 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=600
+2026-03-22 13:17:42,081 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=600
+2026-03-22 13:17:42,084 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=600
+2026-03-22 13:17:42,285 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=600
+2026-03-22 13:17:42,290 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=600
+2026-03-22 13:17:42,481 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=600
+2026-03-22 13:17:42,486 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=600
+2026-03-22 13:17:43,421 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=610
+2026-03-22 13:17:43,422 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=610
+2026-03-22 13:17:43,423 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=610
+2026-03-22 13:17:43,631 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=610
+2026-03-22 13:17:43,632 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=610
+2026-03-22 13:17:43,829 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=610
+2026-03-22 13:17:43,831 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=610
+2026-03-22 13:17:44,023 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=610
+2026-03-22 13:17:44,025 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=610
+2026-03-22 13:17:44,218 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=610
+2026-03-22 13:17:44,222 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=610
+2026-03-22 13:17:45,202 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=620
+2026-03-22 13:17:45,202 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=620
+2026-03-22 13:17:45,204 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=620
+2026-03-22 13:17:45,205 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=620
+2026-03-22 13:17:45,479 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=620
+2026-03-22 13:17:45,480 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=620
+2026-03-22 13:17:45,734 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=620
+2026-03-22 13:17:45,735 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=620
+2026-03-22 13:17:46,048 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=620
+2026-03-22 13:17:46,050 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=620
+2026-03-22 13:17:46,282 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=620
+2026-03-22 13:17:46,284 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=620
+2026-03-22 13:17:47,291 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=625
+2026-03-22 13:17:47,405 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=625
+2026-03-22 13:17:48,153 | INFO     | [ENTRY]               face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=625 image=logs/entrs\2026-03-22\13-17-48_152_track39_71b871ad-600d-4bbd-9d94-9b2e0ccc749e.jpg
+2026-03-22 13:17:48,154 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=630
+2026-03-22 13:17:48,156 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=630
+2026-03-22 13:17:48,158 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=630
+2026-03-22 13:17:48,160 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=630
+2026-03-22 13:17:48,162 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=630
+2026-03-22 13:17:48,246 | INFO     | [FACE_REGISTERED]     face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 unique_count=12 frame=625
+2026-03-22 13:17:48,395 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=630
+2026-03-22 13:17:48,396 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=630
+2026-03-22 13:17:48,590 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=630
+2026-03-22 13:17:48,593 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=630
+2026-03-22 13:17:48,806 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=630
+2026-03-22 13:17:48,808 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=630
+2026-03-22 13:17:49,042 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=630
+2026-03-22 13:17:49,048 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=630
+2026-03-22 13:17:49,261 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=630
+2026-03-22 13:17:49,264 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=630
+2026-03-22 13:17:50,227 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=640
+2026-03-22 13:17:50,228 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=640
+2026-03-22 13:17:50,229 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=640
+2026-03-22 13:17:50,230 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=640
+2026-03-22 13:17:50,429 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=640
+2026-03-22 13:17:50,432 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=640
+2026-03-22 13:17:50,625 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=640
+2026-03-22 13:17:50,626 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=640
+2026-03-22 13:17:50,823 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=640
+2026-03-22 13:17:50,827 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=640
+2026-03-22 13:17:51,014 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=640
+2026-03-22 13:17:51,019 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=640
+2026-03-22 13:17:51,983 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=650
+2026-03-22 13:17:51,985 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=650
+2026-03-22 13:17:51,986 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=650
+2026-03-22 13:17:51,987 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=650
+2026-03-22 13:17:51,989 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=650
+2026-03-22 13:17:52,185 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=650
+2026-03-22 13:17:52,187 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=650
+2026-03-22 13:17:52,374 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=650
+2026-03-22 13:17:52,377 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=650
+2026-03-22 13:17:52,558 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=650
+2026-03-22 13:17:52,560 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=650
+2026-03-22 13:17:52,832 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=650
+2026-03-22 13:17:52,834 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=650
+2026-03-22 13:17:53,121 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=650
+2026-03-22 13:17:53,126 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=650
+2026-03-22 13:17:54,287 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=660
+2026-03-22 13:17:54,288 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=660
+2026-03-22 13:17:54,290 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=660
+2026-03-22 13:17:54,291 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=660
+2026-03-22 13:17:54,292 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=660
+2026-03-22 13:17:54,559 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=660
+2026-03-22 13:17:54,565 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=660
+2026-03-22 13:17:54,833 | INFO     | [EMBEDDING_GENERATED] track_id=31 dim=512 quality=True frame=660
+2026-03-22 13:17:54,836 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 similarity=1.00 frame=660
+2026-03-22 13:17:55,045 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=660
+2026-03-22 13:17:55,050 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=660
+2026-03-22 13:17:55,252 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=660
+2026-03-22 13:17:55,258 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=660
+2026-03-22 13:17:55,436 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=660
+2026-03-22 13:17:55,437 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=660
+2026-03-22 13:17:56,479 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=670
+2026-03-22 13:17:56,480 | INFO     | [TRACKING]            face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=670
+2026-03-22 13:17:56,481 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=670
+2026-03-22 13:17:56,482 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=670
+2026-03-22 13:17:56,734 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=670
+2026-03-22 13:17:56,735 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=670
+2026-03-22 13:17:56,980 | INFO     | [EMBEDDING_GENERATED] track_id=36 dim=512 quality=True frame=670
+2026-03-22 13:17:56,981 | INFO     | [RECOGNITION]         face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 similarity=1.00 frame=670
+2026-03-22 13:17:57,212 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=670
+2026-03-22 13:17:57,214 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=670
+2026-03-22 13:17:57,563 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=670
+2026-03-22 13:17:57,566 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=670
+2026-03-22 13:17:58,881 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=680
+2026-03-22 13:17:58,883 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=680
+2026-03-22 13:17:58,884 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=680
+2026-03-22 13:17:59,110 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=680
+2026-03-22 13:17:59,112 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=680
+2026-03-22 13:17:59,405 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=680
+2026-03-22 13:17:59,406 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=680
+2026-03-22 13:17:59,635 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=680
+2026-03-22 13:17:59,636 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=680
+2026-03-22 13:18:00,635 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=685
+2026-03-22 13:18:00,737 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=685
+2026-03-22 13:18:01,411 | INFO     | [ENTRY]               face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=685 image=logs/entrs\2026-03-22\13-18-01_410_track42_67e7ffe0-7814-437e-9097-8716ac9fc1d9.jpg
+2026-03-22 13:18:01,413 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=690
+2026-03-22 13:18:01,414 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=690
+2026-03-22 13:18:01,416 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=690
+2026-03-22 13:18:01,417 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=690
+2026-03-22 13:18:01,537 | INFO     | [FACE_REGISTERED]     face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 unique_count=13 frame=685
+2026-03-22 13:18:01,706 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=690
+2026-03-22 13:18:01,710 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=690
+2026-03-22 13:18:01,941 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=690
+2026-03-22 13:18:01,943 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=690
+2026-03-22 13:18:02,259 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=690
+2026-03-22 13:18:02,260 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=690
+2026-03-22 13:18:02,472 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=690
+2026-03-22 13:18:02,473 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=690
+2026-03-22 13:18:03,608 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=700
+2026-03-22 13:18:03,609 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=700
+2026-03-22 13:18:03,610 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=700
+2026-03-22 13:18:03,611 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=700
+2026-03-22 13:18:03,863 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=700
+2026-03-22 13:18:03,864 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=700
+2026-03-22 13:18:04,139 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=700
+2026-03-22 13:18:04,142 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=700
+2026-03-22 13:18:04,444 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=700
+2026-03-22 13:18:04,448 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=700
+2026-03-22 13:18:04,663 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=700
+2026-03-22 13:18:04,667 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=700
+2026-03-22 13:18:05,692 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=710
+2026-03-22 13:18:05,692 | INFO     | [TRACKING]            face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=710
+2026-03-22 13:18:05,694 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=710
+2026-03-22 13:18:05,696 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=710
+2026-03-22 13:18:05,947 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=710
+2026-03-22 13:18:05,948 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=710
+2026-03-22 13:18:06,180 | INFO     | [EMBEDDING_GENERATED] track_id=39 dim=512 quality=True frame=710
+2026-03-22 13:18:06,181 | INFO     | [RECOGNITION]         face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 similarity=1.00 frame=710
+2026-03-22 13:18:06,398 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=710
+2026-03-22 13:18:06,401 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=710
+2026-03-22 13:18:06,649 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=710
+2026-03-22 13:18:06,653 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=710
+2026-03-22 13:18:07,929 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=720
+2026-03-22 13:18:07,929 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=720
+2026-03-22 13:18:07,931 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=720
+2026-03-22 13:18:08,172 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=720
+2026-03-22 13:18:08,173 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=720
+2026-03-22 13:18:08,406 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=720
+2026-03-22 13:18:08,407 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=720
+2026-03-22 13:18:08,615 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=720
+2026-03-22 13:18:08,617 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=720
+2026-03-22 13:18:09,676 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=730
+2026-03-22 13:18:09,678 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=730
+2026-03-22 13:18:09,678 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=730
+2026-03-22 13:18:10,103 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=730
+2026-03-22 13:18:10,105 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=730
+2026-03-22 13:18:10,346 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=730
+2026-03-22 13:18:10,349 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=730
+2026-03-22 13:18:10,561 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=730
+2026-03-22 13:18:10,563 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=730
+2026-03-22 13:18:11,634 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=740
+2026-03-22 13:18:11,635 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=740
+2026-03-22 13:18:11,636 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=740
+2026-03-22 13:18:11,889 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=740
+2026-03-22 13:18:11,893 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=740
+2026-03-22 13:18:12,155 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=740
+2026-03-22 13:18:12,159 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=740
+2026-03-22 13:18:12,358 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=740
+2026-03-22 13:18:12,360 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=740
+2026-03-22 13:18:13,337 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=750
+2026-03-22 13:18:13,338 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=750
+2026-03-22 13:18:13,338 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=750
+2026-03-22 13:18:13,545 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=750
+2026-03-22 13:18:13,549 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=750
+2026-03-22 13:18:13,750 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=750
+2026-03-22 13:18:13,751 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=750
+2026-03-22 13:18:13,940 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=750
+2026-03-22 13:18:13,943 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=750
+2026-03-22 13:18:14,952 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=760
+2026-03-22 13:18:14,952 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=760
+2026-03-22 13:18:14,954 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=760
+2026-03-22 13:18:15,188 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=760
+2026-03-22 13:18:15,190 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=760
+2026-03-22 13:18:15,403 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=760
+2026-03-22 13:18:15,405 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=760
+2026-03-22 13:18:15,629 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=760
+2026-03-22 13:18:15,638 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=760
+2026-03-22 13:18:16,575 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=770
+2026-03-22 13:18:16,575 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=770
+2026-03-22 13:18:16,577 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=770
+2026-03-22 13:18:16,788 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=770
+2026-03-22 13:18:16,790 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=770
+2026-03-22 13:18:16,993 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=770
+2026-03-22 13:18:16,994 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=770
+2026-03-22 13:18:17,195 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=770
+2026-03-22 13:18:17,198 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=770
+2026-03-22 13:18:18,319 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=780
+2026-03-22 13:18:18,319 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=780
+2026-03-22 13:18:18,320 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=780
+2026-03-22 13:18:18,546 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=780
+2026-03-22 13:18:18,548 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=780
+2026-03-22 13:18:18,748 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=780
+2026-03-22 13:18:18,749 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=780
+2026-03-22 13:18:18,940 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=780
+2026-03-22 13:18:18,943 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=780
+2026-03-22 13:18:19,922 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=790
+2026-03-22 13:18:19,923 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=790
+2026-03-22 13:18:19,924 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=790
+2026-03-22 13:18:20,192 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=790
+2026-03-22 13:18:20,192 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=790
+2026-03-22 13:18:20,465 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=790
+2026-03-22 13:18:20,466 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=790
+2026-03-22 13:18:20,767 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=790
+2026-03-22 13:18:20,768 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=790
+2026-03-22 13:18:21,768 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=800
+2026-03-22 13:18:21,769 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=800
+2026-03-22 13:18:21,771 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=800
+2026-03-22 13:18:21,983 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=800
+2026-03-22 13:18:21,985 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=800
+2026-03-22 13:18:22,172 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=800
+2026-03-22 13:18:22,173 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=800
+2026-03-22 13:18:22,391 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=800
+2026-03-22 13:18:22,393 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=800
+2026-03-22 13:18:23,070 | INFO     | [EXIT]                face_id=40c45b65-d5e0-4c3f-9a84-f9a18c5434f9 track_id=14 frame=805 image=logs/exits\2026-03-22\13-18-23_070_track14_40c45b65-d5e0-4c3f-9a84-f9a18c5434f9.jpg
+2026-03-22 13:18:23,383 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=810
+2026-03-22 13:18:23,384 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=810
+2026-03-22 13:18:23,386 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=810
+2026-03-22 13:18:23,593 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=810
+2026-03-22 13:18:23,594 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=810
+2026-03-22 13:18:23,786 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=810
+2026-03-22 13:18:23,789 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=810
+2026-03-22 13:18:24,000 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=810
+2026-03-22 13:18:24,004 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=810
+2026-03-22 13:18:24,996 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=820
+2026-03-22 13:18:24,997 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=820
+2026-03-22 13:18:24,998 | INFO     | [TRACKING]            face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=820
+2026-03-22 13:18:25,201 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=820
+2026-03-22 13:18:25,206 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=820
+2026-03-22 13:18:25,395 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=820
+2026-03-22 13:18:25,398 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=820
+2026-03-22 13:18:25,598 | INFO     | [EMBEDDING_GENERATED] track_id=42 dim=512 quality=True frame=820
+2026-03-22 13:18:25,601 | INFO     | [RECOGNITION]         face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 similarity=1.00 frame=820
+2026-03-22 13:18:26,669 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=830
+2026-03-22 13:18:26,671 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=830
+2026-03-22 13:18:26,880 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=830
+2026-03-22 13:18:26,882 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=830
+2026-03-22 13:18:27,077 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=830
+2026-03-22 13:18:27,077 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=830
+2026-03-22 13:18:28,283 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=840
+2026-03-22 13:18:28,284 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=840
+2026-03-22 13:18:28,491 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=840
+2026-03-22 13:18:28,493 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=840
+2026-03-22 13:18:28,698 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=840
+2026-03-22 13:18:28,701 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=840
+2026-03-22 13:18:29,708 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=850
+2026-03-22 13:18:29,708 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 frame=850
+2026-03-22 13:18:29,909 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=850
+2026-03-22 13:18:29,910 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=850
+2026-03-22 13:18:30,100 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=850
+2026-03-22 13:18:30,101 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=850
+2026-03-22 13:18:31,106 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=860
+2026-03-22 13:18:31,302 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=860
+2026-03-22 13:18:31,304 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=860
+2026-03-22 13:18:32,415 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=870
+2026-03-22 13:18:32,628 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=870
+2026-03-22 13:18:32,631 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=870
+2026-03-22 13:18:33,614 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=880
+2026-03-22 13:18:33,823 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=880
+2026-03-22 13:18:33,825 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=880
+2026-03-22 13:18:34,030 | INFO     | [EMBEDDING_GENERATED] track_id=81 dim=512 quality=True frame=880
+2026-03-22 13:18:34,135 | INFO     | [RECOGNITION]         face_id=8538ab24-310f-4a4f-bde7-9bc875c40d83 track_id=81 similarity=1.00 frame=880
+2026-03-22 13:18:34,721 | INFO     | [ENTRY]               face_id=8538ab24-310f-4a4f-bde7-9bc875c40d83 track_id=81 frame=880 image=logs/entrs\2026-03-22\13-18-34_721_track81_8538ab24-310f-4a4f-bde7-9bc875c40d83.jpg
+2026-03-22 13:18:34,746 | INFO     | [FACE_REGISTERED]     face_id=8538ab24-310f-4a4f-bde7-9bc875c40d83 track_id=81 unique_count=14 frame=880
+2026-03-22 13:18:34,992 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=890
+2026-03-22 13:18:35,187 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=890
+2026-03-22 13:18:35,189 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=890
+2026-03-22 13:18:35,389 | INFO     | [EMBEDDING_GENERATED] track_id=10 dim=512 quality=True frame=890
+2026-03-22 13:18:35,390 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=10 similarity=1.00 frame=890
+2026-03-22 13:18:36,292 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=900
+2026-03-22 13:18:36,494 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=900
+2026-03-22 13:18:36,498 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=900
+2026-03-22 13:18:37,573 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=910
+2026-03-22 13:18:37,836 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=910
+2026-03-22 13:18:37,864 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=910
+2026-03-22 13:18:38,789 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=920
+2026-03-22 13:18:38,983 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=920
+2026-03-22 13:18:38,985 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=920
+2026-03-22 13:18:39,913 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=930
+2026-03-22 13:18:39,915 | INFO     | [EXIT]                face_id=78e982b8-8c70-4912-841c-9094dfa89925 track_id=12 frame=930 image=logs/exits\2026-03-22\13-18-39_913_track12_78e982b8-8c70-4912-841c-9094dfa89925.jpg
+2026-03-22 13:18:40,124 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=930
+2026-03-22 13:18:40,128 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=930
+2026-03-22 13:18:41,068 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=940
+2026-03-22 13:18:41,325 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=940
+2026-03-22 13:18:41,338 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=940
+2026-03-22 13:18:42,340 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=950
+2026-03-22 13:18:42,541 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=950
+2026-03-22 13:18:42,544 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=950
+2026-03-22 13:18:42,731 | INFO     | [EMBEDDING_GENERATED] track_id=83 dim=512 quality=True frame=950
+2026-03-22 13:18:42,782 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 similarity=0.71 frame=950
+2026-03-22 13:18:43,738 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=960
+2026-03-22 13:18:43,738 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 frame=960
+2026-03-22 13:18:43,952 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=960
+2026-03-22 13:18:43,954 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=960
+2026-03-22 13:18:44,142 | INFO     | [EMBEDDING_GENERATED] track_id=83 dim=512 quality=True frame=960
+2026-03-22 13:18:44,144 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 similarity=1.00 frame=960
+2026-03-22 13:18:45,096 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=970
+2026-03-22 13:18:45,097 | INFO     | [EXIT]                face_id=80aa11b4-321e-46e4-8ce2-f142da674060 track_id=35 frame=970 image=logs/exits\2026-03-22\13-18-45_097_track35_80aa11b4-321e-46e4-8ce2-f142da674060.jpg
+2026-03-22 13:18:45,319 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=970
+2026-03-22 13:18:45,323 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=970
+2026-03-22 13:18:46,335 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=980
+2026-03-22 13:18:46,547 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=980
+2026-03-22 13:18:46,549 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=980
+2026-03-22 13:18:46,734 | INFO     | [EMBEDDING_GENERATED] track_id=83 dim=512 quality=True frame=980
+2026-03-22 13:18:46,735 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 similarity=1.00 frame=980
+2026-03-22 13:18:47,788 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=990
+2026-03-22 13:18:47,789 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 frame=990
+2026-03-22 13:18:48,005 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=990
+2026-03-22 13:18:48,006 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=990
+2026-03-22 13:18:48,190 | INFO     | [EMBEDDING_GENERATED] track_id=83 dim=512 quality=True frame=990
+2026-03-22 13:18:48,191 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 similarity=1.00 frame=990
+2026-03-22 13:18:49,221 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1000
+2026-03-22 13:18:49,222 | INFO     | [EXIT]                face_id=29a06160-0b72-4165-8dc3-0db45f865534 track_id=19 frame=1000 image=logs/exits\2026-03-22\13-18-49_222_track19_29a06160-0b72-4165-8dc3-0db45f865534.jpg
+2026-03-22 13:18:49,423 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1000
+2026-03-22 13:18:49,425 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1000
+2026-03-22 13:18:50,440 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1010
+2026-03-22 13:18:50,441 | INFO     | [TRACKING]            face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 frame=1010
+2026-03-22 13:18:50,658 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1010
+2026-03-22 13:18:50,660 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1010
+2026-03-22 13:18:50,863 | INFO     | [EMBEDDING_GENERATED] track_id=83 dim=512 quality=True frame=1010
+2026-03-22 13:18:50,865 | INFO     | [RECOGNITION]         face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 similarity=1.00 frame=1010
+2026-03-22 13:18:51,761 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1020
+2026-03-22 13:18:51,978 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1020
+2026-03-22 13:18:51,982 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1020
+2026-03-22 13:18:53,251 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1030
+2026-03-22 13:18:53,476 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1030
+2026-03-22 13:18:53,482 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1030
+2026-03-22 13:18:54,658 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1040
+2026-03-22 13:18:54,985 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1040
+2026-03-22 13:18:54,987 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1040
+2026-03-22 13:18:56,068 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1050
+2026-03-22 13:18:56,374 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1050
+2026-03-22 13:18:56,377 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1050
+2026-03-22 13:18:57,816 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1060
+2026-03-22 13:18:58,219 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1060
+2026-03-22 13:18:58,225 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1060
+2026-03-22 13:18:59,351 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1070
+2026-03-22 13:18:59,566 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1070
+2026-03-22 13:18:59,567 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1070
+2026-03-22 13:19:00,616 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1080
+2026-03-22 13:19:00,821 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1080
+2026-03-22 13:19:00,823 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1080
+2026-03-22 13:19:01,698 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1090
+2026-03-22 13:19:01,912 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1090
+2026-03-22 13:19:01,915 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1090
+2026-03-22 13:19:02,853 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1100
+2026-03-22 13:19:03,060 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1100
+2026-03-22 13:19:03,063 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1100
+2026-03-22 13:19:04,028 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1110
+2026-03-22 13:19:04,258 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1110
+2026-03-22 13:19:04,262 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1110
+2026-03-22 13:19:05,256 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1120
+2026-03-22 13:19:05,257 | INFO     | [EXIT]                face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=31 frame=1120 image=logs/exits\2026-03-22\13-19-05_256_track31_2bb162b2-6946-4641-b093-b63bd2b4cdd7.jpg
+2026-03-22 13:19:05,452 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1120
+2026-03-22 13:19:05,454 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1120
+2026-03-22 13:19:06,153 | INFO     | [EXIT]                face_id=7e1ee427-b72d-4e95-8388-417f9701cb97 track_id=36 frame=1125 image=logs/exits\2026-03-22\13-19-06_152_track36_7e1ee427-b72d-4e95-8388-417f9701cb97.jpg
+2026-03-22 13:19:06,412 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1130
+2026-03-22 13:19:06,651 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1130
+2026-03-22 13:19:06,678 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1130
+2026-03-22 13:19:07,642 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1140
+2026-03-22 13:19:07,951 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1140
+2026-03-22 13:19:07,961 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1140
+2026-03-22 13:19:08,755 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1150
+2026-03-22 13:19:08,963 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1150
+2026-03-22 13:19:08,966 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1150
+2026-03-22 13:19:09,827 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1160
+2026-03-22 13:19:10,095 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1160
+2026-03-22 13:19:10,097 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1160
+2026-03-22 13:19:10,523 | INFO     | [EXIT]                face_id=71b871ad-600d-4bbd-9d94-9b2e0ccc749e track_id=39 frame=1165 image=logs/exits\2026-03-22\13-19-10_522_track39_71b871ad-600d-4bbd-9d94-9b2e0ccc749e.jpg
+2026-03-22 13:19:10,915 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1170
+2026-03-22 13:19:11,118 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1170
+2026-03-22 13:19:11,119 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1170
+2026-03-22 13:19:12,102 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1180
+2026-03-22 13:19:12,326 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1180
+2026-03-22 13:19:12,329 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1180
+2026-03-22 13:19:13,127 | INFO     | [EMBEDDING_GENERATED] track_id=107 dim=512 quality=True frame=1185
+2026-03-22 13:19:13,131 | INFO     | [RECOGNITION]         face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=107 similarity=0.51 frame=1185
+2026-03-22 13:19:13,831 | INFO     | [ENTRY]               face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=107 frame=1185 image=logs/entrs\2026-03-22\13-19-13_830_track107_c801cd14-67e2-46e9-a245-d260bb4b186b.jpg
+2026-03-22 13:19:13,831 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1190
+2026-03-22 13:19:14,029 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1190
+2026-03-22 13:19:14,032 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1190
+2026-03-22 13:19:15,147 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1200
+2026-03-22 13:19:15,148 | INFO     | [TRACKING]            face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=107 frame=1200
+2026-03-22 13:19:15,368 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1200
+2026-03-22 13:19:15,370 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1200
+2026-03-22 13:19:15,567 | INFO     | [EMBEDDING_GENERATED] track_id=107 dim=512 quality=True frame=1200
+2026-03-22 13:19:15,570 | INFO     | [RECOGNITION]         face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=107 similarity=1.00 frame=1200
+2026-03-22 13:19:16,575 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1210
+2026-03-22 13:19:16,801 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1210
+2026-03-22 13:19:16,804 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1210
+2026-03-22 13:19:17,017 | INFO     | [EMBEDDING_GENERATED] track_id=107 dim=512 quality=True frame=1210
+2026-03-22 13:19:17,021 | INFO     | [RECOGNITION]         face_id=c801cd14-67e2-46e9-a245-d260bb4b186b track_id=107 similarity=1.00 frame=1210
+2026-03-22 13:19:18,098 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1220
+2026-03-22 13:19:18,292 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1220
+2026-03-22 13:19:18,295 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1220
+2026-03-22 13:19:19,281 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1230
+2026-03-22 13:19:19,474 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1230
+2026-03-22 13:19:19,476 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1230
+2026-03-22 13:19:19,674 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1230
+2026-03-22 13:19:19,677 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=0.60 frame=1230
+2026-03-22 13:19:20,411 | INFO     | [ENTRY]               face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1230 image=logs/entrs\2026-03-22\13-19-20_409_track109_2bb162b2-6946-4641-b093-b63bd2b4cdd7.jpg
+2026-03-22 13:19:20,711 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1240
+2026-03-22 13:19:20,711 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1240
+2026-03-22 13:19:21,014 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1240
+2026-03-22 13:19:21,016 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1240
+2026-03-22 13:19:21,281 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1240
+2026-03-22 13:19:21,283 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1240
+2026-03-22 13:19:22,352 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1250
+2026-03-22 13:19:22,352 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1250
+2026-03-22 13:19:22,553 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1250
+2026-03-22 13:19:22,554 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1250
+2026-03-22 13:19:22,784 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1250
+2026-03-22 13:19:22,786 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1250
+2026-03-22 13:19:23,840 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1260
+2026-03-22 13:19:23,842 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1260
+2026-03-22 13:19:24,104 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1260
+2026-03-22 13:19:24,107 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1260
+2026-03-22 13:19:24,308 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1260
+2026-03-22 13:19:24,310 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1260
+2026-03-22 13:19:25,294 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1270
+2026-03-22 13:19:25,295 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1270
+2026-03-22 13:19:25,490 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1270
+2026-03-22 13:19:25,495 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1270
+2026-03-22 13:19:25,679 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1270
+2026-03-22 13:19:25,688 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1270
+2026-03-22 13:19:26,362 | INFO     | [EXIT]                face_id=67e7ffe0-7814-437e-9097-8716ac9fc1d9 track_id=42 frame=1275 image=logs/exits\2026-03-22\13-19-26_361_track42_67e7ffe0-7814-437e-9097-8716ac9fc1d9.jpg
+2026-03-22 13:19:26,651 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1280
+2026-03-22 13:19:26,651 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1280
+2026-03-22 13:19:26,853 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1280
+2026-03-22 13:19:26,855 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1280
+2026-03-22 13:19:27,041 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1280
+2026-03-22 13:19:27,044 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1280
+2026-03-22 13:19:28,211 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1290
+2026-03-22 13:19:28,212 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1290
+2026-03-22 13:19:28,408 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1290
+2026-03-22 13:19:28,410 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1290
+2026-03-22 13:19:28,587 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1290
+2026-03-22 13:19:28,588 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1290
+2026-03-22 13:19:29,562 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1300
+2026-03-22 13:19:29,563 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1300
+2026-03-22 13:19:29,761 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1300
+2026-03-22 13:19:29,763 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1300
+2026-03-22 13:19:29,969 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1300
+2026-03-22 13:19:29,972 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1300
+2026-03-22 13:19:30,959 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1310
+2026-03-22 13:19:31,155 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1310
+2026-03-22 13:19:31,158 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1310
+2026-03-22 13:19:32,239 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1320
+2026-03-22 13:19:32,535 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1320
+2026-03-22 13:19:32,538 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1320
+2026-03-22 13:19:33,561 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1330
+2026-03-22 13:19:33,762 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1330
+2026-03-22 13:19:33,766 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1330
+2026-03-22 13:19:34,362 | INFO     | [EXIT]                face_id=8538ab24-310f-4a4f-bde7-9bc875c40d83 track_id=81 frame=1335 image=logs/exits\2026-03-22\13-19-34_361_track81_8538ab24-310f-4a4f-bde7-9bc875c40d83.jpg
+2026-03-22 13:19:34,652 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1340
+2026-03-22 13:19:34,861 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1340
+2026-03-22 13:19:34,863 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1340
+2026-03-22 13:19:35,817 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1350
+2026-03-22 13:19:35,818 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1350
+2026-03-22 13:19:36,017 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1350
+2026-03-22 13:19:36,021 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1350
+2026-03-22 13:19:36,265 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1350
+2026-03-22 13:19:36,269 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1350
+2026-03-22 13:19:37,042 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1360
+2026-03-22 13:19:37,258 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1360
+2026-03-22 13:19:37,264 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1360
+2026-03-22 13:19:37,486 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1360
+2026-03-22 13:19:37,492 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1360
+2026-03-22 13:19:38,574 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1370
+2026-03-22 13:19:38,804 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1370
+2026-03-22 13:19:38,810 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1370
+2026-03-22 13:19:39,084 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1370
+2026-03-22 13:19:39,092 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1370
+2026-03-22 13:19:40,043 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1380
+2026-03-22 13:19:40,044 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1380
+2026-03-22 13:19:40,256 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1380
+2026-03-22 13:19:40,257 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1380
+2026-03-22 13:19:40,526 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1380
+2026-03-22 13:19:40,527 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1380
+2026-03-22 13:19:41,528 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1390
+2026-03-22 13:19:41,528 | INFO     | [TRACKING]            face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 frame=1390
+2026-03-22 13:19:41,741 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1390
+2026-03-22 13:19:41,742 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1390
+2026-03-22 13:19:41,941 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1390
+2026-03-22 13:19:41,942 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1390
+2026-03-22 13:19:42,981 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1400
+2026-03-22 13:19:43,184 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1400
+2026-03-22 13:19:43,188 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1400
+2026-03-22 13:19:44,048 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1410
+2026-03-22 13:19:44,311 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1410
+2026-03-22 13:19:44,313 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1410
+2026-03-22 13:19:44,552 | INFO     | [EMBEDDING_GENERATED] track_id=109 dim=512 quality=True frame=1410
+2026-03-22 13:19:44,555 | INFO     | [RECOGNITION]         face_id=2bb162b2-6946-4641-b093-b63bd2b4cdd7 track_id=109 similarity=1.00 frame=1410
+2026-03-22 13:19:45,422 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1420
+2026-03-22 13:19:45,618 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1420
+2026-03-22 13:19:45,620 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1420
+2026-03-22 13:19:46,507 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1430
+2026-03-22 13:19:46,719 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1430
+2026-03-22 13:19:46,722 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1430
+2026-03-22 13:19:47,729 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1440
+2026-03-22 13:19:47,977 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1440
+2026-03-22 13:19:47,981 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1440
+2026-03-22 13:19:48,851 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1450
+2026-03-22 13:19:49,068 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1450
+2026-03-22 13:19:49,072 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1450
+2026-03-22 13:19:50,182 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1460
+2026-03-22 13:19:50,395 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1460
+2026-03-22 13:19:50,397 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1460
+2026-03-22 13:19:51,132 | INFO     | [EXIT]                face_id=03d02793-078b-407d-b6b5-832e6870124f track_id=83 frame=1465 image=logs/exits\2026-03-22\13-19-51_132_track83_03d02793-078b-407d-b6b5-832e6870124f.jpg
+2026-03-22 13:19:51,424 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1470
+2026-03-22 13:19:51,639 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1470
+2026-03-22 13:19:51,649 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1470
+2026-03-22 13:19:52,525 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1480
+2026-03-22 13:19:52,810 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1480
+2026-03-22 13:19:52,813 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1480
+2026-03-22 13:19:53,901 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1490
+2026-03-22 13:19:54,119 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1490
+2026-03-22 13:19:54,121 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1490
+2026-03-22 13:19:55,175 | INFO     | [TRACKING]            face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 frame=1500
+2026-03-22 13:19:55,364 | INFO     | [EMBEDDING_GENERATED] track_id=3 dim=512 quality=True frame=1500
+2026-03-22 13:19:55,366 | INFO     | [RECOGNITION]         face_id=ab5f61bb-1453-4f01-8dca-970966ca795f track_id=3 similarity=1.00 frame=1500

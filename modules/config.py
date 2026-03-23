@@ -23,6 +23,9 @@ class DetectionConfig:
     yolo_input_size: int
     yolo_num_threads: int
     min_face_size_px: int
+    person_confidence: float
+    min_person_size_px: int
+    min_registration_face_size_px: int
 
 @dataclass
 class QualityGateConfig:
@@ -37,6 +40,8 @@ class ReidConfig:
     embedding_avg_samples: int
     reentry_window_s: int
     reentry_max_buffer: int
+    min_registration_blur_score: float
+    min_registration_face_size_px: int
 
 @dataclass
 class TrackingConfig:
@@ -62,6 +67,7 @@ class SystemConfig:
     use_gpu: bool
     log_dir: str
     frame_queue_size: int
+    show_visualization: bool
 
 class Config:
     def __init__(self, path: str = "config.json"):

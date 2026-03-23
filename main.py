@@ -62,10 +62,34 @@ def main():
     
     try:
         pipeline_instance.start()
-        # Keep main thread alive
-        while not pipeline_instance.stop_event.is_set():
-            import time
-            time.sleep(1)
+        import os
+        import time
+        stop_file = "stop_flag.txt"
+        
+        # If visualization is enabled, run the imshow loop on main thread
+        # (Windows requires cv2.imshow/waitKey on the main thread)
+        if getattr(config.system, 'show_visualization', False):
+            pipeline_instance.run_visualization_loop()
+            # After viz loop ends (user pressed Q or pipeline stopped),
+            # wait for pipeline to finish naturally or stop file to appear
+            while not pipeline_instance.stop_event.is_set():
+                if os.path.exists(stop_file):
+                    logging.info("Stop flag detected. Stopping pipeline...")
+                    pipeline_instance.stop()
+                    try: os.remove(stop_file)
+                    except: pass
+                    break
+                time.sleep(0.5)
+        else:
+            # No visualization — just keep main thread alive or wait for stop file
+            while not pipeline_instance.stop_event.is_set():
+                if os.path.exists(stop_file):
+                    logging.info("Stop flag detected. Stopping pipeline...")
+                    pipeline_instance.stop()
+                    try: os.remove(stop_file)
+                    except: pass
+                    break
+                time.sleep(1)
         
         logging.info("Pipeline stopped. Finalizing session...")
         # T2 already joined T3 internally. Now wait for T4 to finish all DB writes.

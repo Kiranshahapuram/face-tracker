@@ -31,6 +31,22 @@ class FaceEmbedder:
         if self.rec_model is None:
             logging.warning("Could not find rec model with get_feat — will use app.get() fallback")
 
+        # Fast OpenCV eye detector for registration frontality check
+        # Replaces slow app.get() call — runs in microseconds vs milliseconds
+        self.eye_cascade = cv2.CascadeClassifier(
+            cv2.data.haarcascades + 'haarcascade_eye.xml'
+        )
+        # Fallback cascade — better at angled/partially occluded eyes
+        self.eye_cascade2 = cv2.CascadeClassifier(
+            cv2.data.haarcascades + 'haarcascade_eye_tree_eyeglasses.xml'
+        )
+        if self.eye_cascade.empty() or self.eye_cascade2.empty():
+            logging.warning("One or more eye cascades not loaded")
+        self.face_cascade = cv2.CascadeClassifier(
+            cv2.data.haarcascades + 'haarcascade_frontalface_default.xml'
+        )
+        logging.info("OpenCV Haar cascades loaded for fast registration gate.")
+
         logging.info("InsightFace model loaded.")
 
     def quality_gate(self, face_crop: np.ndarray) -> tuple[bool, str]:
@@ -43,52 +59,142 @@ class FaceEmbedder:
             return False, f"blurry({blur_score:.1f})"
         return True, "passed"
 
-    def generate_embedding(self, face_crop: np.ndarray) -> np.ndarray | None:
+    def _has_frontal_face(self, face_crop: np.ndarray) -> bool:
+        """
+        Fast frontality check using OpenCV Haar cascade.
+        Replaces InsightFace app.get() in registration path.
+        Runs in microseconds vs InsightFace's milliseconds on CPU.
+        Returns True if two eyes detected with valid horizontal separation.
+        """
+        try:
+            if self.eye_cascade.empty():
+                return True  # cascade not available — skip check, don't block
+
+            gray = cv2.cvtColor(face_crop, cv2.COLOR_BGR2GRAY)
+            gray = cv2.equalizeHist(gray)  # normalize lighting for dark crops
+
+            eyes = self.eye_cascade.detectMultiScale(
+                gray,
+                scaleFactor=1.1,
+                minNeighbors=2,
+                minSize=(6, 6)
+            )
+
+            # Fallback to second cascade if first finds fewer than 2 eyes
+            # Better at angled faces and partially occluded eyes
+            if len(eyes) < 2:
+                eyes = self.eye_cascade2.detectMultiScale(
+                    gray,
+                    scaleFactor=1.1,
+                    minNeighbors=2,
+                    minSize=(6, 6)
+                )
+
+            if len(eyes) < 2:
+                logging.info(f"REGISTRATION BLOCKED: only {len(eyes)} eye(s) detected")
+                return False
+
+            # Sort eyes left to right by x coordinate
+            eyes = sorted(eyes, key=lambda e: e[0])
+            left_cx  = eyes[0][0] + eyes[0][2] // 2
+            right_cx = eyes[1][0] + eyes[1][2] // 2
+
+            eye_dist  = abs(right_cx - left_cx)
+            eye_ratio = eye_dist / face_crop.shape[1]
+
+            if eye_ratio < 0.20:
+                logging.info(f"REGISTRATION BLOCKED: side profile eye_ratio={eye_ratio:.2f}")
+                return False
+
+            return True
+
+        except Exception as e:
+            logging.warning(f"Frontality check error: {e}")
+            return True  # on error, don't block — fail open
+
+    def generate_embedding(self, face_crop: np.ndarray, is_registration: bool = False) -> np.ndarray | None:
         try:
             if face_crop is None or face_crop.size == 0:
                 logging.info("EMBED: crop is None/empty")
                 return None
 
-            logging.info(f"EMBED: crop shape={face_crop.shape}")
+            logging.info(f"EMBED: crop shape={face_crop.shape} is_registration={is_registration}")
 
             passed, reason = self.quality_gate(face_crop)
             logging.info(f"EMBED: quality={passed} reason={reason}")
             if not passed:
                 return None
 
-            # PRIMARY: use recognition model directly — no internal face detection
-            if self.rec_model is not None:
+            if is_registration:
                 try:
+                    if face_crop is None or face_crop.size == 0:
+                        return None
+
+                    # Size check
+                    min_size = self.config.reid.min_registration_face_size_px
+                    if face_crop.shape[0] < min_size or face_crop.shape[1] < min_size:
+                        logging.info(f"REGISTRATION BLOCKED: too small {face_crop.shape}")
+                        return None
+
+                    # Resize to 112x112 for embedding
                     resized = cv2.resize(face_crop, (112, 112))
+
+                    # Fast frontality check — OpenCV Haar cascade
+                    # Blocks backs of heads, side profiles, dark crops
+                    if not self._has_frontal_face(resized):
+                        return None
+
+                    # Generate embedding via fast get_feat — no InsightFace detection
+                    if self.rec_model is None:
+                        return None
+
                     emb = self.rec_model.get_feat([resized])
-                    logging.info(f"EMBED: get_feat returned type={type(emb)}")
-                    if emb is not None and len(emb) > 0:
-                        result = np.array(emb[0], dtype=np.float32)
-                        norm = np.linalg.norm(result)
-                        if norm > 0:
-                            result = result / norm
-                        logging.info(f"EMBED: SUCCESS get_feat shape={result.shape} norm={norm:.3f}")
-                        return result
-                    else:
-                        logging.info("EMBED: get_feat returned empty")
-                except Exception as e:
-                    logging.info(f"EMBED: get_feat exception: {e}")
+                    if emb is None or len(emb) == 0:
+                        logging.info("REGISTRATION BLOCKED: get_feat returned empty")
+                        return None
 
-            # FALLBACK: try app.get() at multiple sizes
-            for size in [(112, 112), (160, 160), (224, 224)]:
+                    result = np.array(emb[0], dtype=np.float32)
+                    norm = np.linalg.norm(result)
+                    if norm > 0:
+                        result = result / norm
+
+                    logging.info(f"REGISTRATION PASSED: norm={norm:.3f}")
+                    return result.astype(np.float32)
+
+                except Exception as e:
+                    logging.error(f"Registration embedding error: {e}")
+                    return None
+
+            else:
+                # Fast matching path — no landmark check
                 try:
-                    resized = cv2.resize(face_crop, size)
-                    faces = self.app.get(resized)
-                    logging.info(f"EMBED: app.get() at {size} found {len(faces) if faces else 0} faces")
-                    if faces:
-                        emb = faces[0].normed_embedding
-                        logging.info(f"EMBED: SUCCESS app.get() at {size}")
-                        return np.array(emb, dtype=np.float32)
-                except Exception as e:
-                    logging.info(f"EMBED: app.get() at {size} exception: {e}")
+                    if face_crop is None or face_crop.size == 0:
+                        return None
 
-            logging.info(f"EMBED: ALL paths failed crop={face_crop.shape}")
-            return None
+                    passed, reason = self.quality_gate(face_crop)
+                    if not passed:
+                        return None
+
+                    resized = cv2.resize(face_crop, (112, 112))
+
+                    if self.rec_model is not None:
+                        try:
+                            # get_feat accepts a list — pass as single-item batch
+                            emb = self.rec_model.get_feat([resized])
+                            if emb is not None and len(emb) > 0:
+                                result = np.array(emb[0], dtype=np.float32)
+                                norm = np.linalg.norm(result)
+                                if norm > 0:
+                                    result = result / norm
+                                return result
+                        except Exception as e:
+                            logging.debug(f"get_feat error: {e}")
+
+                    return None
+
+                except Exception as e:
+                    logging.error(f"Embedder matching error: {e}")
+                    return None
 
         except Exception as e:
             logging.error(f"Embedder critical error: {e}")

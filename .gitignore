@@ -1,16 +1,37 @@
-# Python
+# Python & Environment
 __pycache__/
 *.py[cod]
 *$py.class
-vairable/
 env/
 venv/
 .env
+stop_flag.txt
 
-# Project specific data
-logs/
-uploads/
-debug_frame_*.jpg
+# Project specific data (Keep directory, ignore content)
+logs/*
+!logs/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Large media & model weights
+*.mp4
+*.pt
+yolov8n-face.pt
+
+# Frontend
+node_modules/
+dist/
+build/
+.eslintcache
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc logs and results
+*.log
 diagnose_results.json
 diagnose_results.txt
 diagnose_output.txt
@@ -18,12 +39,4 @@ error_log.txt
 recent_events.txt
 event_summary.json
 sample_db_output.txt
-events2.log
-
-# Large media & model weights
-*.mp4
-*.pt
-
-# OS specific files
-.DS_Store
-Thumbs.db
+debug_frame_*.jpg
